@@ -1,0 +1,39 @@
+.col-12 {
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-12 i {
+    margin-right: 15px;
+    font-size: 30px;
+}
+
+.zap {
+    border: 1px solid green;
+}
+
+.zap i {
+    color: black;
+
+}
+
+.copas {
+    border: 1px solid red;
+}
+
+.copas i {
+    color: red;
+
+}
+
+.espada {
+    border: 1px solid grey;
+}
+
+.espada i {
+    color: grey;
+
+}
